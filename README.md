@@ -1,5 +1,7 @@
 # Space Truck
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0231826df7564458a2e89c18b87fe9d8)](https://app.codacy.com/gh/Daniellima2308/Space-Truck?utm_source=github.com&utm_medium=referral&utm_content=Daniellima2308/Space-Truck&utm_campaign=Badge_Grade)
+
 Space Truck é um app de gestão de viagens para caminhoneiros, pensado para apoiar a rotina operacional da estrada com leitura clara, decisão rápida e ação prática.
 
 O projeto não é tratado como um app genérico de cadastro. As telas, dados e fluxos existem para organizar a operação real: acompanhar viagens, entender custos, registrar eventos importantes, controlar recebíveis e manter a frota pronta para rodar.
